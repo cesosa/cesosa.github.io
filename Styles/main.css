@@ -1,0 +1,32 @@
+
+header{
+    background-color: lightslategrey;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px lightslategrey outset;
+    max-width: 800px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+ float: right;
+ border-radius: 10px;
+padding-left: 30%;
+
+
+}
+h3{
+    text-align: center;
+   
+}
+footer{
+    background-color: lightslategrey;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px lightslategrey outset;
+    text-align: center;
+    padding: 5px;
+    max-width: 790px;
+}
